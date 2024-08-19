@@ -1,0 +1,11 @@
+{
+  "name": "samheeta",
+  "version": "0.0.1",
+  "description": "Portfolio",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  }
+}
